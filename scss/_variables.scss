@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'regular';
+    src: url(/fonts/roboto-regular-webfont.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url(/fonts/Roboto-Medium.woff2) format('woff2'),url(/fonts/Roboto-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'franklin';
+    src: url(/fonts/LibreFranklin-VariableFont_wght.woff2) format('woff2');
+}
+
+$font-medium:'medium';
+$font-regular:'regular';
+$font-franklin:'franklin';
